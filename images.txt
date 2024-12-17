@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #valkey/valkey:8
 #infiniflow/ragflow:dev-slim
-headscale/headscale:latest-alpine
+headscale/headscale:v0.23
