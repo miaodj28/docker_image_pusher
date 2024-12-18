@@ -6,5 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #valkey/valkey:8
 #infiniflow/ragflow:dev-slim
-headscale/headscale:v0.22.3
+# headscale/headscale:v0.22.3
 runyf/hs-admin:v1.0  
