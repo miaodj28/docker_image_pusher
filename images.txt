@@ -9,8 +9,5 @@
 # headscale/headscale:v0.22.3
 # runyf/hs-admin:v1.0
 
-langfuse/langfuse:3
-clickhouse/clickhouse-server
-minio/minio
-postgres:latest
-redis:7
+langfuse/langfuse-worker:3
+
