@@ -8,6 +8,8 @@
 #infiniflow/ragflow:dev-slim
 # headscale/headscale:v0.22.3
 # runyf/hs-admin:v1.0
+#langfuse/langfuse-worker:3
 
-langfuse/langfuse-worker:3
-
+mysql:8.0.39
+infiniflow/infinity:v0.5.2
+infiniflow/ragflow:v0.15.1-slim
