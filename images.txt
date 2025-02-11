@@ -10,6 +10,9 @@
 # runyf/hs-admin:v1.0
 #langfuse/langfuse-worker:3
 
-mysql:8.0.39
-infiniflow/infinity:v0.5.2
-infiniflow/ragflow:v0.15.1-slim
+#mysql:8.0.39
+#infiniflow/infinity:v0.5.2
+#infiniflow/ragflow:v0.15.1-slim
+
+infiniflow/ragflow:v0.16.0-slim
+infiniflow/infinity:v0.6.0-dev3
