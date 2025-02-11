@@ -14,5 +14,7 @@
 #infiniflow/infinity:v0.5.2
 #infiniflow/ragflow:v0.15.1-slim
 
-infiniflow/ragflow:v0.16.0-slim
-infiniflow/infinity:v0.6.0-dev3
+#infiniflow/ragflow:v0.16.0-slim
+#infiniflow/infinity:v0.6.0-dev3
+
+xprobe/xinference
