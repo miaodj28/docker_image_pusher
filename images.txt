@@ -46,7 +46,8 @@
 ##ubuntu/squid:latest
 
 #container-registry.oracle.com/database/free:latest
-langgenius/dify-api:1.0.0
-langgenius/dify-api:1.0.0
-langgenius/dify-web:1.0.0
-infiniflow/ragflow:v0.17.0-slim
+#langgenius/dify-api:1.0.0
+#langgenius/dify-api:1.0.0
+#langgenius/dify-web:1.0.0
+#infiniflow/ragflow:v0.17.0-slim
+langgenius/dify-plugin-daemon:0.0.3-local
