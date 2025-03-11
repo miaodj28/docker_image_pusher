@@ -17,7 +17,7 @@
 #infiniflow/ragflow:v0.16.0-slim
 #infiniflow/infinity:v0.6.0-dev3
 
-xprobe/xinference
+#xprobe/xinference
 
 #certbot/certbot
 ##container-registry.oracle.com/database/free:latest
@@ -50,4 +50,6 @@ xprobe/xinference
 #langgenius/dify-api:1.0.0
 #langgenius/dify-web:1.0.0
 #infiniflow/ragflow:v0.17.0-slim
-langgenius/dify-plugin-daemon:0.0.3-local
+#langgenius/dify-plugin-daemon:0.0.3-local
+
+infiniflow/ragflow:v0.17.1-slim
