@@ -53,4 +53,5 @@
 #langgenius/dify-plugin-daemon:0.0.3-local
 
 #infiniflow/ragflow:v0.17.1-slim
-kestra/kestra:latest
+#kestra/kestra:latest
+conductor:server
