@@ -54,4 +54,5 @@
 
 #infiniflow/ragflow:v0.17.1-slim
 #kestra/kestra:latest
-conductor:server
+#conductor:server
+grobid/grobid:0.7.3
